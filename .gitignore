@@ -1,0 +1,13 @@
+# 1. File compilati (spazzatura creata da Python)
+__pycache__/
+*.pyc
+
+# 2. Cartella delle impostazioni di PyCharm
+.idea/
+
+# 3. Ambiente Virtuale (i nomi più comuni)
+venv/
+.venv/
+
+# 4 Evito di caricare il Dataset
+dataset_voli/
